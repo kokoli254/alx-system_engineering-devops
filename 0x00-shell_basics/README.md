@@ -8,4 +8,5 @@ create directory
 move file to other directory
 delete file from /tmp/
 delete directory in /tmp/
-move working directory to previous directory 
+move working directory to previous directory
+list from Wd parent of WD and /boot 
