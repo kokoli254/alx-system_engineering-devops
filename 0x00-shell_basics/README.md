@@ -6,4 +6,5 @@ list all files including hidden ones
 list files with user and group IDs
 create directory
 move file to other directory
-delete file from /tmp/ 
+delete file from /tmp/
+delete directory in /tmp/ 
