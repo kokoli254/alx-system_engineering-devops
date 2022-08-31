@@ -4,4 +4,5 @@ change to home directory of user
 list in long format
 list all files including hidden ones
 list files with user and group IDs
-create directory 
+create directory
+move file to other directory 
