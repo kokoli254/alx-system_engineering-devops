@@ -7,4 +7,5 @@ list files with user and group IDs
 create directory
 move file to other directory
 delete file from /tmp/
-delete directory in /tmp/ 
+delete directory in /tmp/
+move working directory to previous directory 
